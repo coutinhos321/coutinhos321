@@ -3,6 +3,7 @@
 My name is Simone Coutinho and I am a 4th year Computer Engineering Student @ University of Waterloo. 
 
 🔭 Throughout my university journey, I have continuously developed an interest for Data Science/Engineering/Governance. 
+
 🤔 Solving complex data problems is my passion and knowing that the world of data is endless makes me hopeful!
 
 ⚡ I have previous practical experience with SQL, Python, C++, HTML, CSS along with various tools. 
